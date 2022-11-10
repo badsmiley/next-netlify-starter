@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Hi. I'm Oleg Somin." />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          I'm experienced e-commerce consultant, designer and web-producer. Founder and Jedi Grand Master at ITLine company. Open networker. Happy father and lovely husband :) Originally I'm from Moscow, Russia but I moved to Vilnius, Lithuania in 2013 to take a deep breath of freedom, creativity and fresh air.
         </p>
       </main>
 
